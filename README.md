@@ -1,4 +1,5 @@
 ## 项目地址
+https://minlingchao1.github.io/
 https://github.com/minlingchao1/auth-center
 
 ## 项目说明
